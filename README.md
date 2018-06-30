@@ -1,2 +1,2 @@
 # morpho.DT
-Decision trees
+Decision trees (script and example files). This script was developed for the following article: López-González N, Andrés-Sánchez S, Rojas-Andrés BM, Martínez-Ortega MM (2018) Divide and conquer! Data-mining tools and sequential multivariate analysis to search for diagnostic morphological characters within a plant polyploid complex (Veronica subsect. Pentasepalae, Plantaginaceae). PLOS ONE 13(6): e0199818.
